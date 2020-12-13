@@ -1,0 +1,11 @@
+export const ACTION_TYPE = {
+  TOP_ALBUMS: 'TOP_ALBUMS'
+};
+
+export const API_ACTION_TYPE = {
+  API: 'API',
+  API_START: 'API_START',
+  API_END: 'API_END',
+  ACCESS_DENIED: 'ACCESS_DENIED',
+  API_ERROR: 'API_ERROR',
+};
